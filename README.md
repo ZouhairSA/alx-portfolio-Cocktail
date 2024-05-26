@@ -15,13 +15,16 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
     git clone https://github.com/ZouhairSA/alx-portfolio-Cocktail.git
+2. **2**
     cd ALx-zohair-Cocktail
+2. **3**
     npm install
+2. **4**
     npm start
 
 ## Visualize the Project
     You can view the live project at the following link:
-        https://vercel.com/zohairs-projects/alx-portfolio-cocktail
+    https://vercel.com/zohairs-projects/alx-portfolio-cocktail
 
 ## Picture
 1. **P1**
