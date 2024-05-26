@@ -6,7 +6,7 @@ const NavBar = () => {
     <Wrapper>
       <div className="nav-center">
         <Link to="/">
-          <span className="logo">CocktailChronicles</span>
+          <span className="logo">Zohair-Cocktail</span>
         </Link>
         <div className="nav-links">
           <NavLink to="/" className="nav-link">
