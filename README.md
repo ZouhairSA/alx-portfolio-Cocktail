@@ -22,3 +22,16 @@ To run this project locally, follow these steps:
 ## Visualize the Project
     You can view the live project at the following link:
         https://vercel.com/zohairs-projects/alx-portfolio-cocktail
+
+## Picture
+1. **P1**
+![alt text](image.png)
+
+2. **P2**
+![alt text](image-1.png)
+
+3. **P3**
+![alt text](image-2.png)
+
+4. **P4**
+![alt text](image-3.png)
