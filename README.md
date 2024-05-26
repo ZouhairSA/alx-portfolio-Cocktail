@@ -23,7 +23,6 @@ To run this project locally, follow these steps:
     npm start
 
 ## Visualize the Project
-    You can view the live project at the following link:
     https://vercel.com/zohairs-projects/alx-portfolio-cocktail
 
 ## Picture
